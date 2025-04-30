@@ -20,10 +20,13 @@ _Yes, I use emojis — deal with it_ 😎🐍✨
 
 ---
 
-### 🌱 Learning (always):
-- Deeper system abstractions  
-- Vector math, HMMs, and time-series optimization  
-- Clean code... or at least clean **enough** code  
+### 🌱 Learning (always)
+
+- Reweaving the web: revisiting basics, exploring abstractions  
+- Python, machine learning, and building tools that *breathe*  
+- Vector math, systems thinking, and computer science foundations  
+- Entropy, metaphysics, and how logic meets philosophy  
+- Writing code that feels more like a thought than an instruction
 
 ---
 
