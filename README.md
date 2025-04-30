@@ -13,8 +13,8 @@ _Yes, I use emojis — deal with it_ 😎🐍✨
 ---
 
 ### 🧪 I tinker with:
-- Pythonic pipelines and structured ML models  
-- Local-hosted LLMs, XGBoost wizards, and trading signals  
+- Python pipelines and structured ML models  
+- Integrating local-hosted LLMs, XGBoost wizardry, and trading signals  
 - Frontends? I've built them. But backend's where the magic brews ⚗️  
 - Data engineering, CLI tools, and a pinch of entropy theory for flavor  
 
@@ -31,7 +31,7 @@ _Yes, I use emojis — deal with it_ 😎🐍✨
 ---
 
 ### ⚡ Fun Fact:
-I mentor, reverse-engineer things for fun, and sometimes talk to my AI like it's alive. It hasn’t talked back... *yet*.
+I started Jan 2025, enjoy reverse-engineer things for fun, and sometimes talk to my AI like it's alive. It hasn’t talked back... *yet*.
 
 ---
 
