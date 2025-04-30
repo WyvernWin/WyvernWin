@@ -6,7 +6,7 @@ _Yes, I use emojis — deal with it_ 😎🐍✨
 
 ### 🚀 What I'm about:
 - 🧠 Crafting backend systems powered by machine learning  
-- 🛠️ Merging real-time data, quant strategies, and AI tooling  
+- 🛠️ Merging real-time data, quant strategies, and AI tooling/modifications  
 - 🐾 Exploring edge-case logic, smart agents, and model feedback loops  
 - 📊 Currently refining my systems to think before they act (and maybe dream)
 
