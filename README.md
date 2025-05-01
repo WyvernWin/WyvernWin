@@ -31,7 +31,7 @@ _Yes, I use emojis — deal with it_ 😎🐍✨
 ---
 
 ### ⚡ Fun Fact:
-I started learning Jan 2025, enjoy reverse-engineering things for fun, and sometimes talk to my AI like it's alive. It hasn’t talked back... *yet*.
+I started learning Jan 2025, enjoy reverse-engineering things for fun, and sometimes talk to my AI like it's alive. It hasn’t messaged me first... *yet*.
 
 ---
 
