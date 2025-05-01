@@ -13,7 +13,7 @@ _Yes, I use emojis — deal with it_ 😎🐍✨
 ---
 
 ### 🧪 I tinker with:
-- Python pipelines and structured ML models using EDA and model blending, antioverfitting
+- Python pipelines and structured ML models using EDA and model blending, antioverfitting rare class truth seeker (*F1*/*PR-AUC*)
 - Integrating local-hosted LLMs, XGBoost wizardry, and trading signals  
 - Frontends? I've built them. But backend's where the magic brews ⚗️  
 - Data engineering, CLI tools, and a pinch of entropy theory for flavor  
