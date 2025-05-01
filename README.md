@@ -38,7 +38,7 @@ I started Jan 2025, enjoy reverse-engineering things for fun, and sometimes talk
 ### 🤝 When I’m ready, I’d love to:
 - Contribute to open quant research  
 - Collaborate on clever agentic AI tooling  
-- Join forces on weird projects that make people raise their eyebrows  
+- Join forces on weird projects that make people raise their eyebrows - generalisable video/audio mood/sentiment detection anyone?
 
 ---
 
