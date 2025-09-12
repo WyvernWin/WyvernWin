@@ -1,7 +1,7 @@
 ## Hey there, I’m WyvernWin 👋  
-_A backend-focused builder of intelligent systems_😎🐍
+A backend-focused builder of intelligent systems😎🐍
 
-_Recently more fullstack app production with Go microservices_✨
+Recently more fullstack app production with Go microservices✨
 ---
 
 ### 🚀 What I'm about:
